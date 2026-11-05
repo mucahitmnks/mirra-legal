@@ -53,7 +53,7 @@ PRIVATE BY DESIGN
 • No account, no ads, no tracking
 
 MIRRA PRO
-On-device edits are free, and every device gets free AI edits to try. Mirra Pro unlocks unlimited AI edits and watermark-free saving. Available as weekly, monthly or yearly subscriptions; the yearly plan may include a free trial.
+On-device edits are free, and every device gets free AI edits to try. Mirra Pro includes 50 AI edits a day and watermark-free saving. Available as weekly, monthly or yearly subscriptions; the yearly plan may include a free trial.
 
 Payment is charged to your Apple ID at confirmation. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period, and your account is charged for renewal within the 24 hours before it ends. Manage or cancel anytime in Settings → your name → Subscriptions. Any unused portion of a free trial is forfeited when you purchase a subscription.
 
@@ -110,7 +110,7 @@ GİZLİLİK ÖNCELİKLİ
 • Hesap yok, reklam yok, izleme yok
 
 MIRRA PRO
-Cihaz üstü düzenlemeler ücretsizdir ve her cihaz denemek için ücretsiz yapay zekâ düzenlemesi alır. Mirra Pro sınırsız yapay zekâ düzenlemesi ve filigransız kaydetme sunar. Haftalık, aylık ya da yıllık abonelik olarak alınabilir; yıllık planda ücretsiz deneme olabilir.
+Cihaz üstü düzenlemeler ücretsizdir ve her cihaz denemek için ücretsiz yapay zekâ düzenlemesi alır. Mirra Pro günde 50 yapay zekâ düzenlemesi ve filigransız kaydetme sunar. Haftalık, aylık ya da yıllık abonelik olarak alınabilir; yıllık planda ücretsiz deneme olabilir.
 
 Ödeme, satın alma onaylandığında Apple kimliğinden alınır. Abonelik, mevcut dönemin bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir; yenileme ücreti dönem bitmeden önceki 24 saat içinde alınır. Aboneliği istediğin zaman Ayarlar → adın → Abonelikler'den yönetebilir ya da iptal edebilirsin. Abonelik satın alındığında ücretsiz denemenin kullanılmamış kısmı geçersiz olur.
 
@@ -191,7 +191,7 @@ PRIVACIDAD DESDE EL DISEÑO
 • Sin cuenta, sin anuncios, sin seguimiento
 
 MIRRA PRO
-Las ediciones en el dispositivo son gratis y cada dispositivo recibe ediciones con IA gratuitas para probar. Mirra Pro desbloquea ediciones con IA ilimitadas y guardado sin marca de agua. Disponible como suscripción semanal, mensual o anual; el plan anual puede incluir una prueba gratuita.
+Las ediciones en el dispositivo son gratis y cada dispositivo recibe ediciones con IA gratuitas para probar. Mirra Pro incluye 50 ediciones con IA al día y guardado sin marca de agua. Disponible como suscripción semanal, mensual o anual; el plan anual puede incluir una prueba gratuita.
 
 El pago se carga a tu Apple ID al confirmar la compra. La suscripción se renueva automáticamente salvo que se cancele al menos 24 horas antes del final del periodo actual, y la renovación se cobra dentro de las 24 horas previas a su fin. Gestiona o cancela cuando quieras en Ajustes → tu nombre → Suscripciones. La parte no usada de una prueba gratuita se pierde al comprar una suscripción.
 
@@ -248,7 +248,7 @@ PRIVACIDADE DESDE O INÍCIO
 • Sem conta, sem anúncios, sem rastreamento
 
 MIRRA PRO
-As edições no aparelho são gratuitas, e cada aparelho ganha edições com IA grátis para testar. O Mirra Pro libera edições com IA ilimitadas e salvamento sem marca d'água. Disponível em assinatura semanal, mensal ou anual; o plano anual pode incluir um teste grátis.
+As edições no aparelho são gratuitas, e cada aparelho ganha edições com IA grátis para testar. O Mirra Pro inclui 50 edições com IA por dia e salvamento sem marca d'água. Disponível em assinatura semanal, mensal ou anual; o plano anual pode incluir um teste grátis.
 
 O pagamento é cobrado no seu ID Apple ao confirmar a compra. A assinatura é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do fim do período atual, e a renovação é cobrada nas 24 horas anteriores ao fim. Gerencie ou cancele quando quiser em Ajustes → seu nome → Assinaturas. Qualquer parte não usada de um teste grátis é perdida ao comprar uma assinatura.
 
@@ -305,7 +305,7 @@ PRIVAT VON ANFANG AN
 • Kein Konto, keine Werbung, kein Tracking
 
 MIRRA PRO
-Bearbeitungen auf dem Gerät sind kostenlos, und jedes Gerät erhält kostenlose KI-Bearbeitungen zum Ausprobieren. Mirra Pro schaltet unbegrenzte KI-Bearbeitungen und Speichern ohne Wasserzeichen frei. Erhältlich als Wochen-, Monats- oder Jahresabo; das Jahresabo kann eine kostenlose Testphase enthalten.
+Bearbeitungen auf dem Gerät sind kostenlos, und jedes Gerät erhält kostenlose KI-Bearbeitungen zum Ausprobieren. Mirra Pro umfasst 50 KI-Bearbeitungen pro Tag und Speichern ohne Wasserzeichen. Erhältlich als Wochen-, Monats- oder Jahresabo; das Jahresabo kann eine kostenlose Testphase enthalten.
 
 Die Zahlung wird bei Bestätigung deiner Apple-ID belastet. Das Abo verlängert sich automatisch, wenn es nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt wird; die Verlängerung wird innerhalb der 24 Stunden vor Ablauf berechnet. Verwalte oder kündige jederzeit unter Einstellungen → dein Name → Abonnements. Ein nicht genutzter Teil der Testphase verfällt beim Kauf eines Abos.
 
@@ -362,7 +362,7 @@ CONFIDENTIALITÉ DÈS LA CONCEPTION
 • Pas de compte, pas de publicité, pas de suivi
 
 MIRRA PRO
-Les retouches sur l'appareil sont gratuites et chaque appareil reçoit des retouches IA gratuites pour essayer. Mirra Pro débloque les retouches IA illimitées et l'enregistrement sans filigrane. Disponible en abonnement hebdomadaire, mensuel ou annuel ; l'offre annuelle peut inclure un essai gratuit.
+Les retouches sur l'appareil sont gratuites et chaque appareil reçoit des retouches IA gratuites pour essayer. Mirra Pro inclut 50 retouches IA par jour et l'enregistrement sans filigrane. Disponible en abonnement hebdomadaire, mensuel ou annuel ; l'offre annuelle peut inclure un essai gratuit.
 
 Le paiement est débité de votre identifiant Apple à la confirmation de l'achat. L'abonnement se renouvelle automatiquement sauf annulation au moins 24 heures avant la fin de la période en cours ; le renouvellement est facturé dans les 24 heures précédant cette fin. Gérez ou annulez à tout moment dans Réglages → votre nom → Abonnements. Toute partie non utilisée d'un essai gratuit est perdue lors de l'achat d'un abonnement.
 
@@ -419,7 +419,7 @@ PRIVACY FIN DALL'INIZIO
 • Nessun account, nessuna pubblicità, nessun tracciamento
 
 MIRRA PRO
-Le modifiche sul dispositivo sono gratuite e ogni dispositivo riceve modifiche IA gratuite da provare. Mirra Pro sblocca modifiche IA illimitate e il salvataggio senza filigrana. Disponibile come abbonamento settimanale, mensile o annuale; il piano annuale può includere una prova gratuita.
+Le modifiche sul dispositivo sono gratuite e ogni dispositivo riceve modifiche IA gratuite da provare. Mirra Pro include 50 modifiche IA al giorno e il salvataggio senza filigrana. Disponibile come abbonamento settimanale, mensile o annuale; il piano annuale può includere una prova gratuita.
 
 Il pagamento viene addebitato sul tuo ID Apple alla conferma dell'acquisto. L'abbonamento si rinnova automaticamente se non viene annullato almeno 24 ore prima della fine del periodo in corso; il rinnovo viene addebitato nelle 24 ore precedenti la scadenza. Gestisci o annulla quando vuoi in Impostazioni → il tuo nome → Abbonamenti. La parte non utilizzata di una prova gratuita si perde all'acquisto di un abbonamento.
 
@@ -476,7 +476,7 @@ Mirra превращает одно фото во множество верси�
 • Без аккаунта, без рекламы, без отслеживания
 
 MIRRA PRO
-Обработка на устройстве бесплатна, а каждое устройство получает бесплатные ИИ-обработки для пробы. Mirra Pro открывает безлимитные ИИ-обработки и сохранение без водяного знака. Доступна недельная, месячная и годовая подписка; годовой план может включать бесплатный пробный период.
+Обработка на устройстве бесплатна, а каждое устройство получает бесплатные ИИ-обработки для пробы. Mirra Pro включает 50 ИИ-обработок в день и сохранение без водяного знака. Доступна недельная, месячная и годовая подписка; годовой план может включать бесплатный пробный период.
 
 Оплата списывается с вашего Apple ID при подтверждении покупки. Подписка продлевается автоматически, если не отменить ее не позднее чем за 24 часа до конца текущего периода; оплата за продление списывается в течение 24 часов до его окончания. Управлять подпиской или отменить ее можно в Настройках → ваше имя → Подписки. Неиспользованная часть пробного периода сгорает при покупке подписки.
 
@@ -533,7 +533,7 @@ Mirraは1枚の写真から、たくさんの「あなた」を生み出しま�
 • アカウント不要、広告なし、トラッキングなし
 
 MIRRA PRO
-端末上の編集は無料で、どの端末でも無料のAI編集をお試しいただけます。Mirra ProではAI編集が無制限になり、透かしなしで保存できます。週額・月額・年額のサブスクリプションがあり、年額プランには無料トライアルが付く場合があります。
+端末上の編集は無料で、どの端末でも無料のAI編集をお試しいただけます。Mirra ProではAI編集が1日50回まで使え、透かしなしで保存できます。週額・月額・年額のサブスクリプションがあり、年額プランには無料トライアルが付く場合があります。
 
 購入確定時にApple IDに請求されます。現在の期間終了の24時間前までに解約しない限り、サブスクリプションは自動更新され、更新料金は期間終了前の24時間以内に請求されます。管理や解約は「設定」→ユーザ名→「サブスクリプション」からいつでも行えます。無料トライアルの未使用期間は、サブスクリプションを購入した時点で失効します。
 
@@ -590,7 +590,7 @@ Mirra는 사진 한 장으로 여러 모습의 나를 만들어 줍니다. 스�
 • 계정 없음, 광고 없음, 추적 없음
 
 MIRRA PRO
-기기 내 편집은 무료이며, 모든 기기에서 무료 AI 편집을 체험할 수 있습니다. Mirra Pro는 AI 편집 무제한과 워터마크 없는 저장을 제공합니다. 주간, 월간, 연간 구독이 있으며 연간 플랜에는 무료 체험이 포함될 수 있습니다.
+기기 내 편집은 무료이며, 모든 기기에서 무료 AI 편집을 체험할 수 있습니다. Mirra Pro는 하루 50회 AI 편집과 워터마크 없는 저장을 제공합니다. 주간, 월간, 연간 구독이 있으며 연간 플랜에는 무료 체험이 포함될 수 있습니다.
 
 결제는 구매 확인 시 Apple ID로 청구됩니다. 현재 기간이 끝나기 최소 24시간 전에 취소하지 않으면 구독이 자동 갱신되며, 갱신 요금은 기간 종료 전 24시간 이내에 청구됩니다. 설정 → 사용자 이름 → 구독에서 언제든지 관리하거나 취소할 수 있습니다. 구독을 구매하면 무료 체험의 남은 기간은 소멸됩니다.
 
@@ -647,7 +647,7 @@ Mirra 能把一张照片变成许多个不同的你。选择一个造型，轻�
 • 无需账号，无广告，无跟踪
 
 MIRRA PRO
-设备端编辑免费，每台设备还可免费体验 AI 编辑。Mirra Pro 解锁无限次 AI 编辑和无水印保存。提供周、月、年订阅；年度方案可能包含免费试用。
+设备端编辑免费，每台设备还可免费体验 AI 编辑。Mirra Pro 每天提供 50 次 AI 编辑和无水印保存。提供周、月、年订阅；年度方案可能包含免费试用。
 
 确认购买时将从你的 Apple ID 扣款。除非在当前周期结束前至少 24 小时取消，否则订阅将自动续订，续订费用会在周期结束前 24 小时内扣除。可随时在"设置"→你的名字→"订阅"中管理或取消。购买订阅后，免费试用期中未使用的部分将失效。
 
@@ -704,7 +704,7 @@ AI 生成结果为艺术效果，仅供参考。
 • بلا حساب، بلا إعلانات، بلا تتبع
 
 MIRRA PRO
-التعديلات على الجهاز مجانية، ويحصل كل جهاز على تعديلات مجانية بالذكاء الاصطناعي للتجربة. يتيح Mirra Pro تعديلات غير محدودة بالذكاء الاصطناعي وحفظًا دون علامة مائية. متوفر باشتراك أسبوعي أو شهري أو سنوي، وقد تتضمن الخطة السنوية فترة تجربة مجانية.
+التعديلات على الجهاز مجانية، ويحصل كل جهاز على تعديلات مجانية بالذكاء الاصطناعي للتجربة. يتيح Mirra Pro ‏50 تعديلًا بالذكاء الاصطناعي يوميًا وحفظًا دون علامة مائية. متوفر باشتراك أسبوعي أو شهري أو سنوي، وقد تتضمن الخطة السنوية فترة تجربة مجانية.
 
 يُخصم المبلغ من حساب Apple ID عند تأكيد الشراء. يتجدد الاشتراك تلقائيًا ما لم يُلغَ قبل 24 ساعة على الأقل من نهاية الفترة الحالية، ويُخصم رسم التجديد خلال الـ 24 ساعة السابقة لنهايتها. يمكنك إدارة الاشتراك أو إلغاؤه في أي وقت من الإعدادات ← اسمك ← الاشتراكات. يسقط أي جزء غير مستخدم من فترة التجربة المجانية عند شراء اشتراك.
 
