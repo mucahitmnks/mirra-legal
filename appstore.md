@@ -132,7 +132,7 @@ Same order as the frames: 1 Age · 2 Hair · 3 Beard · 4 Beauty · 5 Before/aft
 |---|---|---|---|---|---|---|
 | 1 | See yourself at any age | Kendini her yaşta gör | Mírate a cualquier edad | Veja-se em qualquer idade | Sieh dich in jedem Alter | Découvrez-vous à tout âge |
 | 2 | Try any hairstyle & color | Her saç modelini ve rengini dene | Prueba cualquier peinado y color | Teste qualquer corte e cor | Jede Frisur, jede Haarfarbe | Essayez coiffures et couleurs |
-| 3 | Beard, stubble or clean | Sakal, kirli sakal ya da sinekkaydı | Barba, barba corta o afeitado | Barba cheia, rala ou lisinho | Vollbart, Stoppeln oder glatt | Barbe, barbe de 3 jours ou rasé |
+| 3 | Beard, stubble or clean | Sakal, kirli sakal ya da sinekkaydı | Barba, barba corta o afeitado | Barba cheia, rala ou lisinho | Vollbart, Stoppelbart oder glatt | Barbe, barbe de 3 jours ou rasé |
 | 4 | Smile, clear skin & makeup | Gülümseme, pürüzsüz cilt ve makyaj | Sonrisa, piel limpia y maquillaje | Sorriso, pele limpa e maquiagem | Lächeln, klare Haut & Make-up | Sourire, peau nette et maquillage |
 | 5 | Compare before & after | Önce ve sonrayı karşılaştır | Compara el antes y el después | Compare o antes e o depois | Vorher und nachher vergleichen | Comparez avant et après |
 | 6 | Private by design — photos never kept | Gizlilik öncelikli: fotoğrafın saklanmaz | Privacidad ante todo: no guardamos tus fotos | Privacidade em 1º lugar: fotos não são guardadas | Privat von Anfang an: keine Fotos gespeichert | Confidentialité d'abord : aucune photo conservée |
@@ -151,7 +151,7 @@ Same order as the frames: 1 Age · 2 Hair · 3 Beard · 4 Beauty · 5 Before/aft
 ## Español (México) — usable as-is for Español (España)
 
 **Nombre (30):** Mirra: Editor de Rostro IA
-**Subtítulo (30):** Cambia edad, pelo y barba
+**Subtítulo (30):** Cambia edad, cabello y barba
 
 **Texto promocional (170):**
 Mírate con otra luz. Prueba un peinado nuevo, una barba, un tú más joven o mayor y una sonrisa más brillante, en segundos y con un antes/después.
@@ -162,9 +162,9 @@ envejecer,viejo,joven,peinado,color,bigote,maquillaje,sonrisa,belleza,selfie,ret
 **Descripción:**
 Mirra convierte una sola foto en muchas versiones de ti. Elige un estilo, toca una vez y mira cómo cambia la luz alrededor de tu cara mientras aparece tu nuevo yo.
 
-PELO
+CABELLO
 • Prueba peinados y largos nuevos sin ir a la peluquería
-• Prueba colores de pelo, de tonos naturales a otros más atrevidos
+• Prueba colores de cabello, de tonos naturales a otros más atrevidos
 
 BARBA Y BIGOTE
 • Añade barba completa, barba corta o bigote y descubre qué te queda mejor
@@ -176,7 +176,7 @@ SONRISA
 • Convierte una expresión seria en una sonrisa natural
 
 PIEL Y BELLEZA
-• Elimina granitos y suaviza arrugas
+• Elimina imperfecciones y suaviza arrugas
 • Añade un maquillaje sutil
 • Cambia el color de tus ojos
 
@@ -201,7 +201,7 @@ Términos de uso: https://mucahitmnks.github.io/mirra-legal/terms.html
 Los resultados de la IA son artísticos y aproximados.
 
 **Novedades (1.0):**
-Bienvenido a Mirra. Prueba nuevos looks de pelo, barba, edad, sonrisa y belleza, y compara el antes y el después.
+Bienvenido a Mirra. Prueba nuevos looks de cabello, barba, edad, sonrisa y belleza, y compara el antes y el después.
 
 ---
 
@@ -281,7 +281,7 @@ HAARE
 • Teste Haarfarben, von natürlich bis auffällig
 
 BART & SCHNURRBART
-• Füge Vollbart, Stoppeln oder Schnurrbart hinzu und finde heraus, was dir steht
+• Füge Vollbart, Stoppelbart oder Schnurrbart hinzu und finde heraus, was dir steht
 
 ALTER
 • Sieh dich älter oder kehre zu einem jüngeren Look zurück
@@ -461,7 +461,7 @@ Mirra превращает одно фото во множество верси�
 • Превратите серьезное лицо в естественную улыбку
 
 КОЖА И КРАСОТА
-• Уберите прыщики и смягчите морщины
+• Уберите недостатки кожи и смягчите морщины
 • Добавьте легкий макияж
 • Измените цвет глаз
 
